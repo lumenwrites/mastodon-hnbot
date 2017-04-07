@@ -27,7 +27,7 @@ crontab -e
 And at the end of the file add the line:
 
 ```
-0,30 * * * * python3 /path/to/the/script/hnbot.py "youremail@gmail.com" "yourpassword" "https://insancename.com"
+0,30 * * * * python3 /path/to/the/script/hnbot.py "youremail@gmail.com" "yourpassword" "https://instancename.com"
 ```
 
 (this will execute every 30 minutes)
