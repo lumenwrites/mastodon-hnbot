@@ -2,6 +2,8 @@ A bot posting the Hacker News stories with 100+ points to [Mastodon](https://git
 
 https://hackertribe.io/@HackerNewsBot
 
+![](https://raw.githubusercontent.com/raymestalez/mastodon-hnbot/master/screenshot.png)
+
 # Usage
 
 Create an account for the bot. For convenience you can use youremail+hnbot@gmail.com, to avoid registering separate email.
