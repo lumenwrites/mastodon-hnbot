@@ -24,7 +24,7 @@ Run the command:
 crontab -e
 ```
 
-And at the end of the file add the lines:
+And at the end of the file add the line:
 
 ```
 0,30 * * * * python3 /path/to/the/script/hnbot.py "youremail@gmail.com" "yourpassword" "https://insancename.com"
