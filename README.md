@@ -11,7 +11,7 @@ Create an account for the bot. For convenience you can use youremail+hnbot@gmail
 Then run the command:
 
 ```
-python3 ./hnbot.py "youremail@gmail.com" "yourpassword" "https://insancename.com"
+python3 ./hnbot.py "youremail@example.com" "yourpassword" "https://instancename.com"
 ```
 
 # Run it regularly
